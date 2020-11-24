@@ -7,3 +7,5 @@ while true
 	x = x + 1
 	sum = sum + x
 end while
+
+print "Sum = " sum
