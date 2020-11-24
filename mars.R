@@ -8,5 +8,4 @@ while true
 	sum = sum + x
 end while
 
-print "x  =  " x
 print "Sum = " sum
