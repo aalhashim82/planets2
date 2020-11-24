@@ -9,3 +9,4 @@ while true
 end while
 
 print "Sum = " sum
+print "X = " x
