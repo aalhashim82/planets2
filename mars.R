@@ -8,5 +8,6 @@ while true
 	sum = sum + x
 end while
 
+print "=========="
 print "Sum = " sum
 print "X = " x
